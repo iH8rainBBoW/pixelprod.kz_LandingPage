@@ -1,4 +1,4 @@
-# PixelProd
+# Landing page for pixelprod.kz
 It was our first experience of creating a website. We made a landing page for https://pixelprod.kz
 
 Team members:
